@@ -1,0 +1,2 @@
+# QuantumSea
+Simple Quantum Battleship
